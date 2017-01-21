@@ -1,0 +1,12 @@
+PODS:
+  - CustomControls (0.0.1)
+
+DEPENDENCIES:
+  - CustomControls (~> 0.0.1)
+
+SPEC CHECKSUMS:
+  CustomControls: 4f463de93b8f4f3ebb84c6b5be97be85cb438804
+
+PODFILE CHECKSUM: 80c0a50d8fa831ae18d6c5130a8c8e89d241ec31
+
+COCOAPODS: 1.0.0

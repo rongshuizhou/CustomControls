@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  AppDelegate.h
 //  CustomControls
 //
 //  Created by 周荣水 on 2017/1/21.
@@ -7,9 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "<#header#>"
 
-@interface ViewController : UIViewController
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
 
 
 @end

@@ -15,24 +15,15 @@
 		132DFA5B1E32ED1E0048F1AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 132DFA591E32ED1E0048F1AD /* LaunchScreen.storyboard */; };
 		132DFA661E32ED1F0048F1AD /* CustomControlsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 132DFA651E32ED1F0048F1AD /* CustomControlsTests.m */; };
 		132DFA711E32ED1F0048F1AD /* CustomControlsUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 132DFA701E32ED1F0048F1AD /* CustomControlsUITests.m */; };
-		132DFA8D1E32EDA70048F1AD /* UIButton+Layout.m in Sources */ = {isa = PBXBuildFile; fileRef = 132DFA821E32EDA70048F1AD /* UIButton+Layout.m */; };
-		132DFA8E1E32EDA70048F1AD /* UIButton+Layout.m in Sources */ = {isa = PBXBuildFile; fileRef = 132DFA821E32EDA70048F1AD /* UIButton+Layout.m */; };
-		132DFA8F1E32EDA70048F1AD /* UIButton+Layout.m in Sources */ = {isa = PBXBuildFile; fileRef = 132DFA821E32EDA70048F1AD /* UIButton+Layout.m */; };
-		132DFA901E32EDA70048F1AD /* ZRSCustomBtn.m in Sources */ = {isa = PBXBuildFile; fileRef = 132DFA841E32EDA70048F1AD /* ZRSCustomBtn.m */; };
-		132DFA911E32EDA70048F1AD /* ZRSCustomBtn.m in Sources */ = {isa = PBXBuildFile; fileRef = 132DFA841E32EDA70048F1AD /* ZRSCustomBtn.m */; };
-		132DFA921E32EDA70048F1AD /* ZRSCustomBtn.m in Sources */ = {isa = PBXBuildFile; fileRef = 132DFA841E32EDA70048F1AD /* ZRSCustomBtn.m */; };
-		132DFA931E32EDA70048F1AD /* ZRSCustomDottedLine.m in Sources */ = {isa = PBXBuildFile; fileRef = 132DFA861E32EDA70048F1AD /* ZRSCustomDottedLine.m */; };
-		132DFA941E32EDA70048F1AD /* ZRSCustomDottedLine.m in Sources */ = {isa = PBXBuildFile; fileRef = 132DFA861E32EDA70048F1AD /* ZRSCustomDottedLine.m */; };
-		132DFA951E32EDA70048F1AD /* ZRSCustomDottedLine.m in Sources */ = {isa = PBXBuildFile; fileRef = 132DFA861E32EDA70048F1AD /* ZRSCustomDottedLine.m */; };
-		132DFA961E32EDA70048F1AD /* ZRSCustomImgView.m in Sources */ = {isa = PBXBuildFile; fileRef = 132DFA881E32EDA70048F1AD /* ZRSCustomImgView.m */; };
-		132DFA971E32EDA70048F1AD /* ZRSCustomImgView.m in Sources */ = {isa = PBXBuildFile; fileRef = 132DFA881E32EDA70048F1AD /* ZRSCustomImgView.m */; };
-		132DFA981E32EDA70048F1AD /* ZRSCustomImgView.m in Sources */ = {isa = PBXBuildFile; fileRef = 132DFA881E32EDA70048F1AD /* ZRSCustomImgView.m */; };
-		132DFA991E32EDA70048F1AD /* ZRSCustomView.m in Sources */ = {isa = PBXBuildFile; fileRef = 132DFA8A1E32EDA70048F1AD /* ZRSCustomView.m */; };
-		132DFA9A1E32EDA70048F1AD /* ZRSCustomView.m in Sources */ = {isa = PBXBuildFile; fileRef = 132DFA8A1E32EDA70048F1AD /* ZRSCustomView.m */; };
-		132DFA9B1E32EDA70048F1AD /* ZRSCustomView.m in Sources */ = {isa = PBXBuildFile; fileRef = 132DFA8A1E32EDA70048F1AD /* ZRSCustomView.m */; };
-		132DFA9C1E32EDA70048F1AD /* ZRSStarRatingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 132DFA8C1E32EDA70048F1AD /* ZRSStarRatingView.m */; };
-		132DFA9D1E32EDA70048F1AD /* ZRSStarRatingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 132DFA8C1E32EDA70048F1AD /* ZRSStarRatingView.m */; };
-		132DFA9E1E32EDA70048F1AD /* ZRSStarRatingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 132DFA8C1E32EDA70048F1AD /* ZRSStarRatingView.m */; };
+		1335A95B1E332892003DC2EB /* UIButton+Layout.m in Sources */ = {isa = PBXBuildFile; fileRef = 1335A9501E332892003DC2EB /* UIButton+Layout.m */; };
+		1335A95C1E332892003DC2EB /* ZRSCustomBtn.m in Sources */ = {isa = PBXBuildFile; fileRef = 1335A9521E332892003DC2EB /* ZRSCustomBtn.m */; };
+		1335A95D1E332892003DC2EB /* ZRSCustomDottedLine.m in Sources */ = {isa = PBXBuildFile; fileRef = 1335A9541E332892003DC2EB /* ZRSCustomDottedLine.m */; };
+		1335A95E1E332892003DC2EB /* ZRSCustomImgView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1335A9561E332892003DC2EB /* ZRSCustomImgView.m */; };
+		1335A95F1E332892003DC2EB /* ZRSCustomView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1335A9581E332892003DC2EB /* ZRSCustomView.m */; };
+		1335A9601E332892003DC2EB /* ZRSStarRatingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1335A95A1E332892003DC2EB /* ZRSStarRatingView.m */; };
+		53564CA8208B5FF510F2DB45 /* libPods-CustomControls.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CD1CE03AB08DD8423BA03479 /* libPods-CustomControls.a */; };
+		A6DB7C1EB029219F8C8D8174 /* libPods-CustomControlsTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A339B69254F2F5D877FEE7B4 /* libPods-CustomControlsTests.a */; };
+		F139B98F42B461ABAAA1D425 /* libPods-CustomControlsUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AB8AD88AF9E461D3D704B7A9 /* libPods-CustomControlsUITests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -69,19 +60,28 @@
 		132DFA6C1E32ED1F0048F1AD /* CustomControlsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CustomControlsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		132DFA701E32ED1F0048F1AD /* CustomControlsUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomControlsUITests.m; sourceTree = "<group>"; };
 		132DFA721E32ED1F0048F1AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		132DFA811E32EDA70048F1AD /* UIButton+Layout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+Layout.h"; sourceTree = "<group>"; };
-		132DFA821E32EDA70048F1AD /* UIButton+Layout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Layout.m"; sourceTree = "<group>"; };
-		132DFA831E32EDA70048F1AD /* ZRSCustomBtn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZRSCustomBtn.h; sourceTree = "<group>"; };
-		132DFA841E32EDA70048F1AD /* ZRSCustomBtn.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZRSCustomBtn.m; sourceTree = "<group>"; };
-		132DFA851E32EDA70048F1AD /* ZRSCustomDottedLine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZRSCustomDottedLine.h; sourceTree = "<group>"; };
-		132DFA861E32EDA70048F1AD /* ZRSCustomDottedLine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZRSCustomDottedLine.m; sourceTree = "<group>"; };
-		132DFA871E32EDA70048F1AD /* ZRSCustomImgView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZRSCustomImgView.h; sourceTree = "<group>"; };
-		132DFA881E32EDA70048F1AD /* ZRSCustomImgView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZRSCustomImgView.m; sourceTree = "<group>"; };
-		132DFA891E32EDA70048F1AD /* ZRSCustomView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZRSCustomView.h; sourceTree = "<group>"; };
-		132DFA8A1E32EDA70048F1AD /* ZRSCustomView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZRSCustomView.m; sourceTree = "<group>"; };
-		132DFA8B1E32EDA70048F1AD /* ZRSStarRatingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZRSStarRatingView.h; sourceTree = "<group>"; };
-		132DFA8C1E32EDA70048F1AD /* ZRSStarRatingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZRSStarRatingView.m; sourceTree = "<group>"; };
-		132DFA9F1E32EE0C0048F1AD /* CustomControls.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomControls.h; sourceTree = "<group>"; };
+		1335A94D1E332892003DC2EB /* CustomControls.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomControls.h; sourceTree = "<group>"; };
+		1335A94F1E332892003DC2EB /* UIButton+Layout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+Layout.h"; sourceTree = "<group>"; };
+		1335A9501E332892003DC2EB /* UIButton+Layout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Layout.m"; sourceTree = "<group>"; };
+		1335A9511E332892003DC2EB /* ZRSCustomBtn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZRSCustomBtn.h; sourceTree = "<group>"; };
+		1335A9521E332892003DC2EB /* ZRSCustomBtn.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZRSCustomBtn.m; sourceTree = "<group>"; };
+		1335A9531E332892003DC2EB /* ZRSCustomDottedLine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZRSCustomDottedLine.h; sourceTree = "<group>"; };
+		1335A9541E332892003DC2EB /* ZRSCustomDottedLine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZRSCustomDottedLine.m; sourceTree = "<group>"; };
+		1335A9551E332892003DC2EB /* ZRSCustomImgView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZRSCustomImgView.h; sourceTree = "<group>"; };
+		1335A9561E332892003DC2EB /* ZRSCustomImgView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZRSCustomImgView.m; sourceTree = "<group>"; };
+		1335A9571E332892003DC2EB /* ZRSCustomView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZRSCustomView.h; sourceTree = "<group>"; };
+		1335A9581E332892003DC2EB /* ZRSCustomView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZRSCustomView.m; sourceTree = "<group>"; };
+		1335A9591E332892003DC2EB /* ZRSStarRatingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZRSStarRatingView.h; sourceTree = "<group>"; };
+		1335A95A1E332892003DC2EB /* ZRSStarRatingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZRSStarRatingView.m; sourceTree = "<group>"; };
+		26FFBFE22B7043D72514927D /* Pods-CustomControlsTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CustomControlsTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-CustomControlsTests/Pods-CustomControlsTests.release.xcconfig"; sourceTree = "<group>"; };
+		4A274A0CB0C5C0246EFFCF6B /* Pods-CustomControlsUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CustomControlsUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CustomControlsUITests/Pods-CustomControlsUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		4A2D6818564E4A07A7C81FC4 /* Pods-CustomControlsUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CustomControlsUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-CustomControlsUITests/Pods-CustomControlsUITests.release.xcconfig"; sourceTree = "<group>"; };
+		68BE4518CEA41B00705A7DBF /* Pods-CustomControls.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CustomControls.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CustomControls/Pods-CustomControls.debug.xcconfig"; sourceTree = "<group>"; };
+		83514B9C0D706A3504E7608B /* Pods-CustomControlsTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CustomControlsTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CustomControlsTests/Pods-CustomControlsTests.debug.xcconfig"; sourceTree = "<group>"; };
+		923B2B3A959A870850B9BD57 /* Pods-CustomControls.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CustomControls.release.xcconfig"; path = "Pods/Target Support Files/Pods-CustomControls/Pods-CustomControls.release.xcconfig"; sourceTree = "<group>"; };
+		A339B69254F2F5D877FEE7B4 /* libPods-CustomControlsTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CustomControlsTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AB8AD88AF9E461D3D704B7A9 /* libPods-CustomControlsUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CustomControlsUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CD1CE03AB08DD8423BA03479 /* libPods-CustomControls.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CustomControls.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +89,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				53564CA8208B5FF510F2DB45 /* libPods-CustomControls.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -96,6 +97,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A6DB7C1EB029219F8C8D8174 /* libPods-CustomControlsTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -103,6 +105,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F139B98F42B461ABAAA1D425 /* libPods-CustomControlsUITests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -116,6 +119,8 @@
 				132DFA641E32ED1F0048F1AD /* CustomControlsTests */,
 				132DFA6F1E32ED1F0048F1AD /* CustomControlsUITests */,
 				132DFA491E32ED1E0048F1AD /* Products */,
+				1FF140B0841D1CD257619AD5 /* Pods */,
+				605F8243CC807C4E2E5115F3 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -132,7 +137,7 @@
 		132DFA4A1E32ED1E0048F1AD /* CustomControls */ = {
 			isa = PBXGroup;
 			children = (
-				132DFA7F1E32EDA70048F1AD /* XIBShow */,
+				1335A94C1E332892003DC2EB /* XIBShow */,
 				132DFA4E1E32ED1E0048F1AD /* AppDelegate.h */,
 				132DFA4F1E32ED1E0048F1AD /* AppDelegate.m */,
 				132DFA511E32ED1E0048F1AD /* ViewController.h */,
@@ -172,32 +177,55 @@
 			path = CustomControlsUITests;
 			sourceTree = "<group>";
 		};
-		132DFA7F1E32EDA70048F1AD /* XIBShow */ = {
+		1335A94C1E332892003DC2EB /* XIBShow */ = {
 			isa = PBXGroup;
 			children = (
-				132DFA801E32EDA70048F1AD /* ZRSButton */,
-				132DFA831E32EDA70048F1AD /* ZRSCustomBtn.h */,
-				132DFA841E32EDA70048F1AD /* ZRSCustomBtn.m */,
-				132DFA851E32EDA70048F1AD /* ZRSCustomDottedLine.h */,
-				132DFA861E32EDA70048F1AD /* ZRSCustomDottedLine.m */,
-				132DFA871E32EDA70048F1AD /* ZRSCustomImgView.h */,
-				132DFA881E32EDA70048F1AD /* ZRSCustomImgView.m */,
-				132DFA891E32EDA70048F1AD /* ZRSCustomView.h */,
-				132DFA8A1E32EDA70048F1AD /* ZRSCustomView.m */,
-				132DFA8B1E32EDA70048F1AD /* ZRSStarRatingView.h */,
-				132DFA8C1E32EDA70048F1AD /* ZRSStarRatingView.m */,
-				132DFA9F1E32EE0C0048F1AD /* CustomControls.h */,
+				1335A94D1E332892003DC2EB /* CustomControls.h */,
+				1335A94E1E332892003DC2EB /* ZRSButton */,
+				1335A9511E332892003DC2EB /* ZRSCustomBtn.h */,
+				1335A9521E332892003DC2EB /* ZRSCustomBtn.m */,
+				1335A9531E332892003DC2EB /* ZRSCustomDottedLine.h */,
+				1335A9541E332892003DC2EB /* ZRSCustomDottedLine.m */,
+				1335A9551E332892003DC2EB /* ZRSCustomImgView.h */,
+				1335A9561E332892003DC2EB /* ZRSCustomImgView.m */,
+				1335A9571E332892003DC2EB /* ZRSCustomView.h */,
+				1335A9581E332892003DC2EB /* ZRSCustomView.m */,
+				1335A9591E332892003DC2EB /* ZRSStarRatingView.h */,
+				1335A95A1E332892003DC2EB /* ZRSStarRatingView.m */,
 			);
 			path = XIBShow;
 			sourceTree = "<group>";
 		};
-		132DFA801E32EDA70048F1AD /* ZRSButton */ = {
+		1335A94E1E332892003DC2EB /* ZRSButton */ = {
 			isa = PBXGroup;
 			children = (
-				132DFA811E32EDA70048F1AD /* UIButton+Layout.h */,
-				132DFA821E32EDA70048F1AD /* UIButton+Layout.m */,
+				1335A94F1E332892003DC2EB /* UIButton+Layout.h */,
+				1335A9501E332892003DC2EB /* UIButton+Layout.m */,
 			);
 			path = ZRSButton;
+			sourceTree = "<group>";
+		};
+		1FF140B0841D1CD257619AD5 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				68BE4518CEA41B00705A7DBF /* Pods-CustomControls.debug.xcconfig */,
+				923B2B3A959A870850B9BD57 /* Pods-CustomControls.release.xcconfig */,
+				83514B9C0D706A3504E7608B /* Pods-CustomControlsTests.debug.xcconfig */,
+				26FFBFE22B7043D72514927D /* Pods-CustomControlsTests.release.xcconfig */,
+				4A274A0CB0C5C0246EFFCF6B /* Pods-CustomControlsUITests.debug.xcconfig */,
+				4A2D6818564E4A07A7C81FC4 /* Pods-CustomControlsUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		605F8243CC807C4E2E5115F3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				CD1CE03AB08DD8423BA03479 /* libPods-CustomControls.a */,
+				A339B69254F2F5D877FEE7B4 /* libPods-CustomControlsTests.a */,
+				AB8AD88AF9E461D3D704B7A9 /* libPods-CustomControlsUITests.a */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -207,9 +235,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 132DFA751E32ED1F0048F1AD /* Build configuration list for PBXNativeTarget "CustomControls" */;
 			buildPhases = (
+				D4A0FC728632DC5373ED777F /* 📦 Check Pods Manifest.lock */,
 				132DFA441E32ED1E0048F1AD /* Sources */,
 				132DFA451E32ED1E0048F1AD /* Frameworks */,
 				132DFA461E32ED1E0048F1AD /* Resources */,
+				9E98EA45B324362EFC921F92 /* 📦 Embed Pods Frameworks */,
+				256E8536FA318C4ACCE38156 /* 📦 Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -224,9 +255,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 132DFA781E32ED1F0048F1AD /* Build configuration list for PBXNativeTarget "CustomControlsTests" */;
 			buildPhases = (
+				128534F47855AAED21C57EA8 /* 📦 Check Pods Manifest.lock */,
 				132DFA5D1E32ED1F0048F1AD /* Sources */,
 				132DFA5E1E32ED1F0048F1AD /* Frameworks */,
 				132DFA5F1E32ED1F0048F1AD /* Resources */,
+				43BD1EA5590915D9E4DF33D5 /* 📦 Embed Pods Frameworks */,
+				25E197771DE2D5EF3C387A19 /* 📦 Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -242,9 +276,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 132DFA7B1E32ED1F0048F1AD /* Build configuration list for PBXNativeTarget "CustomControlsUITests" */;
 			buildPhases = (
+				2D3EBF03119DE531E2C2C5DA /* 📦 Check Pods Manifest.lock */,
 				132DFA681E32ED1F0048F1AD /* Sources */,
 				132DFA691E32ED1F0048F1AD /* Frameworks */,
 				132DFA6A1E32ED1F0048F1AD /* Resources */,
+				3A081937CD91E22FCBA49319 /* 📦 Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -331,20 +367,143 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		128534F47855AAED21C57EA8 /* 📦 Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		256E8536FA318C4ACCE38156 /* 📦 Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CustomControls/Pods-CustomControls-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		25E197771DE2D5EF3C387A19 /* 📦 Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CustomControlsTests/Pods-CustomControlsTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		2D3EBF03119DE531E2C2C5DA /* 📦 Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		3A081937CD91E22FCBA49319 /* 📦 Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CustomControlsUITests/Pods-CustomControlsUITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		43BD1EA5590915D9E4DF33D5 /* 📦 Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CustomControlsTests/Pods-CustomControlsTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9E98EA45B324362EFC921F92 /* 📦 Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CustomControls/Pods-CustomControls-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D4A0FC728632DC5373ED777F /* 📦 Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		132DFA441E32ED1E0048F1AD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				132DFA531E32ED1E0048F1AD /* ViewController.m in Sources */,
-				132DFA961E32EDA70048F1AD /* ZRSCustomImgView.m in Sources */,
-				132DFA901E32EDA70048F1AD /* ZRSCustomBtn.m in Sources */,
-				132DFA931E32EDA70048F1AD /* ZRSCustomDottedLine.m in Sources */,
+				1335A95E1E332892003DC2EB /* ZRSCustomImgView.m in Sources */,
+				1335A95C1E332892003DC2EB /* ZRSCustomBtn.m in Sources */,
+				1335A95D1E332892003DC2EB /* ZRSCustomDottedLine.m in Sources */,
 				132DFA501E32ED1E0048F1AD /* AppDelegate.m in Sources */,
 				132DFA4D1E32ED1E0048F1AD /* main.m in Sources */,
-				132DFA8D1E32EDA70048F1AD /* UIButton+Layout.m in Sources */,
-				132DFA9C1E32EDA70048F1AD /* ZRSStarRatingView.m in Sources */,
-				132DFA991E32EDA70048F1AD /* ZRSCustomView.m in Sources */,
+				1335A95B1E332892003DC2EB /* UIButton+Layout.m in Sources */,
+				1335A9601E332892003DC2EB /* ZRSStarRatingView.m in Sources */,
+				1335A95F1E332892003DC2EB /* ZRSCustomView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -352,13 +511,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				132DFA911E32EDA70048F1AD /* ZRSCustomBtn.m in Sources */,
-				132DFA971E32EDA70048F1AD /* ZRSCustomImgView.m in Sources */,
 				132DFA661E32ED1F0048F1AD /* CustomControlsTests.m in Sources */,
-				132DFA9A1E32EDA70048F1AD /* ZRSCustomView.m in Sources */,
-				132DFA941E32EDA70048F1AD /* ZRSCustomDottedLine.m in Sources */,
-				132DFA8E1E32EDA70048F1AD /* UIButton+Layout.m in Sources */,
-				132DFA9D1E32EDA70048F1AD /* ZRSStarRatingView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -366,13 +519,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				132DFA921E32EDA70048F1AD /* ZRSCustomBtn.m in Sources */,
-				132DFA981E32EDA70048F1AD /* ZRSCustomImgView.m in Sources */,
 				132DFA711E32ED1F0048F1AD /* CustomControlsUITests.m in Sources */,
-				132DFA9B1E32EDA70048F1AD /* ZRSCustomView.m in Sources */,
-				132DFA951E32EDA70048F1AD /* ZRSCustomDottedLine.m in Sources */,
-				132DFA8F1E32EDA70048F1AD /* UIButton+Layout.m in Sources */,
-				132DFA9E1E32EDA70048F1AD /* ZRSStarRatingView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -501,6 +648,7 @@
 		};
 		132DFA761E32ED1F0048F1AD /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 68BE4518CEA41B00705A7DBF /* Pods-CustomControls.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = VZ7MTRGFPF;
@@ -514,6 +662,7 @@
 		};
 		132DFA771E32ED1F0048F1AD /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 923B2B3A959A870850B9BD57 /* Pods-CustomControls.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = VZ7MTRGFPF;
@@ -527,6 +676,7 @@
 		};
 		132DFA791E32ED1F0048F1AD /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 83514B9C0D706A3504E7608B /* Pods-CustomControlsTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				DEVELOPMENT_TEAM = VZ7MTRGFPF;
@@ -540,6 +690,7 @@
 		};
 		132DFA7A1E32ED1F0048F1AD /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 26FFBFE22B7043D72514927D /* Pods-CustomControlsTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				DEVELOPMENT_TEAM = VZ7MTRGFPF;
@@ -553,6 +704,7 @@
 		};
 		132DFA7C1E32ED1F0048F1AD /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4A274A0CB0C5C0246EFFCF6B /* Pods-CustomControlsUITests.debug.xcconfig */;
 			buildSettings = {
 				DEVELOPMENT_TEAM = VZ7MTRGFPF;
 				INFOPLIST_FILE = CustomControlsUITests/Info.plist;
@@ -565,6 +717,7 @@
 		};
 		132DFA7D1E32ED1F0048F1AD /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4A2D6818564E4A07A7C81FC4 /* Pods-CustomControlsUITests.release.xcconfig */;
 			buildSettings = {
 				DEVELOPMENT_TEAM = VZ7MTRGFPF;
 				INFOPLIST_FILE = CustomControlsUITests/Info.plist;
@@ -594,6 +747,7 @@
 				132DFA771E32ED1F0048F1AD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		132DFA781E32ED1F0048F1AD /* Build configuration list for PBXNativeTarget "CustomControlsTests" */ = {
 			isa = XCConfigurationList;
@@ -602,6 +756,7 @@
 				132DFA7A1E32ED1F0048F1AD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		132DFA7B1E32ED1F0048F1AD /* Build configuration list for PBXNativeTarget "CustomControlsUITests" */ = {
 			isa = XCConfigurationList;
@@ -610,6 +765,7 @@
 				132DFA7D1E32ED1F0048F1AD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
