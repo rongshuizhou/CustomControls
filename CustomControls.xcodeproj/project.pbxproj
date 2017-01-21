@@ -15,12 +15,12 @@
 		132DFA5B1E32ED1E0048F1AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 132DFA591E32ED1E0048F1AD /* LaunchScreen.storyboard */; };
 		132DFA661E32ED1F0048F1AD /* CustomControlsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 132DFA651E32ED1F0048F1AD /* CustomControlsTests.m */; };
 		132DFA711E32ED1F0048F1AD /* CustomControlsUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 132DFA701E32ED1F0048F1AD /* CustomControlsUITests.m */; };
-		1335A95B1E332892003DC2EB /* UIButton+Layout.m in Sources */ = {isa = PBXBuildFile; fileRef = 1335A9501E332892003DC2EB /* UIButton+Layout.m */; };
-		1335A95C1E332892003DC2EB /* ZRSCustomBtn.m in Sources */ = {isa = PBXBuildFile; fileRef = 1335A9521E332892003DC2EB /* ZRSCustomBtn.m */; };
-		1335A95D1E332892003DC2EB /* ZRSCustomDottedLine.m in Sources */ = {isa = PBXBuildFile; fileRef = 1335A9541E332892003DC2EB /* ZRSCustomDottedLine.m */; };
-		1335A95E1E332892003DC2EB /* ZRSCustomImgView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1335A9561E332892003DC2EB /* ZRSCustomImgView.m */; };
-		1335A95F1E332892003DC2EB /* ZRSCustomView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1335A9581E332892003DC2EB /* ZRSCustomView.m */; };
-		1335A9601E332892003DC2EB /* ZRSStarRatingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1335A95A1E332892003DC2EB /* ZRSStarRatingView.m */; };
+		1335A9711E332BE3003DC2EB /* ZRSCustomBtn.m in Sources */ = {isa = PBXBuildFile; fileRef = 1335A9671E332BE3003DC2EB /* ZRSCustomBtn.m */; };
+		1335A9721E332BE3003DC2EB /* ZRSCustomDottedLine.m in Sources */ = {isa = PBXBuildFile; fileRef = 1335A9691E332BE3003DC2EB /* ZRSCustomDottedLine.m */; };
+		1335A9731E332BE3003DC2EB /* ZRSCustomImgView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1335A96B1E332BE3003DC2EB /* ZRSCustomImgView.m */; };
+		1335A9741E332BE3003DC2EB /* ZRSCustomView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1335A96D1E332BE3003DC2EB /* ZRSCustomView.m */; };
+		1335A9751E332BE3003DC2EB /* ZRSStarRatingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1335A96F1E332BE3003DC2EB /* ZRSStarRatingView.m */; };
+		1335A9781E332C0E003DC2EB /* UIButton+Layout.m in Sources */ = {isa = PBXBuildFile; fileRef = 1335A9771E332C0E003DC2EB /* UIButton+Layout.m */; };
 		53564CA8208B5FF510F2DB45 /* libPods-CustomControls.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CD1CE03AB08DD8423BA03479 /* libPods-CustomControls.a */; };
 		A6DB7C1EB029219F8C8D8174 /* libPods-CustomControlsTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A339B69254F2F5D877FEE7B4 /* libPods-CustomControlsTests.a */; };
 		F139B98F42B461ABAAA1D425 /* libPods-CustomControlsUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AB8AD88AF9E461D3D704B7A9 /* libPods-CustomControlsUITests.a */; };
@@ -60,19 +60,19 @@
 		132DFA6C1E32ED1F0048F1AD /* CustomControlsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CustomControlsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		132DFA701E32ED1F0048F1AD /* CustomControlsUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomControlsUITests.m; sourceTree = "<group>"; };
 		132DFA721E32ED1F0048F1AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1335A94D1E332892003DC2EB /* CustomControls.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomControls.h; sourceTree = "<group>"; };
-		1335A94F1E332892003DC2EB /* UIButton+Layout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+Layout.h"; sourceTree = "<group>"; };
-		1335A9501E332892003DC2EB /* UIButton+Layout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Layout.m"; sourceTree = "<group>"; };
-		1335A9511E332892003DC2EB /* ZRSCustomBtn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZRSCustomBtn.h; sourceTree = "<group>"; };
-		1335A9521E332892003DC2EB /* ZRSCustomBtn.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZRSCustomBtn.m; sourceTree = "<group>"; };
-		1335A9531E332892003DC2EB /* ZRSCustomDottedLine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZRSCustomDottedLine.h; sourceTree = "<group>"; };
-		1335A9541E332892003DC2EB /* ZRSCustomDottedLine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZRSCustomDottedLine.m; sourceTree = "<group>"; };
-		1335A9551E332892003DC2EB /* ZRSCustomImgView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZRSCustomImgView.h; sourceTree = "<group>"; };
-		1335A9561E332892003DC2EB /* ZRSCustomImgView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZRSCustomImgView.m; sourceTree = "<group>"; };
-		1335A9571E332892003DC2EB /* ZRSCustomView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZRSCustomView.h; sourceTree = "<group>"; };
-		1335A9581E332892003DC2EB /* ZRSCustomView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZRSCustomView.m; sourceTree = "<group>"; };
-		1335A9591E332892003DC2EB /* ZRSStarRatingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZRSStarRatingView.h; sourceTree = "<group>"; };
-		1335A95A1E332892003DC2EB /* ZRSStarRatingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZRSStarRatingView.m; sourceTree = "<group>"; };
+		1335A9621E332BE3003DC2EB /* CustomControls.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomControls.h; sourceTree = "<group>"; };
+		1335A9661E332BE3003DC2EB /* ZRSCustomBtn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZRSCustomBtn.h; sourceTree = "<group>"; };
+		1335A9671E332BE3003DC2EB /* ZRSCustomBtn.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZRSCustomBtn.m; sourceTree = "<group>"; };
+		1335A9681E332BE3003DC2EB /* ZRSCustomDottedLine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZRSCustomDottedLine.h; sourceTree = "<group>"; };
+		1335A9691E332BE3003DC2EB /* ZRSCustomDottedLine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZRSCustomDottedLine.m; sourceTree = "<group>"; };
+		1335A96A1E332BE3003DC2EB /* ZRSCustomImgView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZRSCustomImgView.h; sourceTree = "<group>"; };
+		1335A96B1E332BE3003DC2EB /* ZRSCustomImgView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZRSCustomImgView.m; sourceTree = "<group>"; };
+		1335A96C1E332BE3003DC2EB /* ZRSCustomView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZRSCustomView.h; sourceTree = "<group>"; };
+		1335A96D1E332BE3003DC2EB /* ZRSCustomView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZRSCustomView.m; sourceTree = "<group>"; };
+		1335A96E1E332BE3003DC2EB /* ZRSStarRatingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZRSStarRatingView.h; sourceTree = "<group>"; };
+		1335A96F1E332BE3003DC2EB /* ZRSStarRatingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZRSStarRatingView.m; sourceTree = "<group>"; };
+		1335A9761E332C0E003DC2EB /* UIButton+Layout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+Layout.h"; sourceTree = "<group>"; };
+		1335A9771E332C0E003DC2EB /* UIButton+Layout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Layout.m"; sourceTree = "<group>"; };
 		26FFBFE22B7043D72514927D /* Pods-CustomControlsTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CustomControlsTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-CustomControlsTests/Pods-CustomControlsTests.release.xcconfig"; sourceTree = "<group>"; };
 		4A274A0CB0C5C0246EFFCF6B /* Pods-CustomControlsUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CustomControlsUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CustomControlsUITests/Pods-CustomControlsUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		4A2D6818564E4A07A7C81FC4 /* Pods-CustomControlsUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CustomControlsUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-CustomControlsUITests/Pods-CustomControlsUITests.release.xcconfig"; sourceTree = "<group>"; };
@@ -137,7 +137,7 @@
 		132DFA4A1E32ED1E0048F1AD /* CustomControls */ = {
 			isa = PBXGroup;
 			children = (
-				1335A94C1E332892003DC2EB /* XIBShow */,
+				1335A9611E332BE3003DC2EB /* XIBShow */,
 				132DFA4E1E32ED1E0048F1AD /* AppDelegate.h */,
 				132DFA4F1E32ED1E0048F1AD /* AppDelegate.m */,
 				132DFA511E32ED1E0048F1AD /* ViewController.h */,
@@ -177,32 +177,24 @@
 			path = CustomControlsUITests;
 			sourceTree = "<group>";
 		};
-		1335A94C1E332892003DC2EB /* XIBShow */ = {
+		1335A9611E332BE3003DC2EB /* XIBShow */ = {
 			isa = PBXGroup;
 			children = (
-				1335A94D1E332892003DC2EB /* CustomControls.h */,
-				1335A94E1E332892003DC2EB /* ZRSButton */,
-				1335A9511E332892003DC2EB /* ZRSCustomBtn.h */,
-				1335A9521E332892003DC2EB /* ZRSCustomBtn.m */,
-				1335A9531E332892003DC2EB /* ZRSCustomDottedLine.h */,
-				1335A9541E332892003DC2EB /* ZRSCustomDottedLine.m */,
-				1335A9551E332892003DC2EB /* ZRSCustomImgView.h */,
-				1335A9561E332892003DC2EB /* ZRSCustomImgView.m */,
-				1335A9571E332892003DC2EB /* ZRSCustomView.h */,
-				1335A9581E332892003DC2EB /* ZRSCustomView.m */,
-				1335A9591E332892003DC2EB /* ZRSStarRatingView.h */,
-				1335A95A1E332892003DC2EB /* ZRSStarRatingView.m */,
+				1335A9761E332C0E003DC2EB /* UIButton+Layout.h */,
+				1335A9771E332C0E003DC2EB /* UIButton+Layout.m */,
+				1335A9621E332BE3003DC2EB /* CustomControls.h */,
+				1335A9661E332BE3003DC2EB /* ZRSCustomBtn.h */,
+				1335A9671E332BE3003DC2EB /* ZRSCustomBtn.m */,
+				1335A9681E332BE3003DC2EB /* ZRSCustomDottedLine.h */,
+				1335A9691E332BE3003DC2EB /* ZRSCustomDottedLine.m */,
+				1335A96A1E332BE3003DC2EB /* ZRSCustomImgView.h */,
+				1335A96B1E332BE3003DC2EB /* ZRSCustomImgView.m */,
+				1335A96C1E332BE3003DC2EB /* ZRSCustomView.h */,
+				1335A96D1E332BE3003DC2EB /* ZRSCustomView.m */,
+				1335A96E1E332BE3003DC2EB /* ZRSStarRatingView.h */,
+				1335A96F1E332BE3003DC2EB /* ZRSStarRatingView.m */,
 			);
 			path = XIBShow;
-			sourceTree = "<group>";
-		};
-		1335A94E1E332892003DC2EB /* ZRSButton */ = {
-			isa = PBXGroup;
-			children = (
-				1335A94F1E332892003DC2EB /* UIButton+Layout.h */,
-				1335A9501E332892003DC2EB /* UIButton+Layout.m */,
-			);
-			path = ZRSButton;
 			sourceTree = "<group>";
 		};
 		1FF140B0841D1CD257619AD5 /* Pods */ = {
@@ -496,14 +488,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				132DFA531E32ED1E0048F1AD /* ViewController.m in Sources */,
-				1335A95E1E332892003DC2EB /* ZRSCustomImgView.m in Sources */,
-				1335A95C1E332892003DC2EB /* ZRSCustomBtn.m in Sources */,
-				1335A95D1E332892003DC2EB /* ZRSCustomDottedLine.m in Sources */,
+				1335A9781E332C0E003DC2EB /* UIButton+Layout.m in Sources */,
+				1335A9731E332BE3003DC2EB /* ZRSCustomImgView.m in Sources */,
+				1335A9711E332BE3003DC2EB /* ZRSCustomBtn.m in Sources */,
+				1335A9721E332BE3003DC2EB /* ZRSCustomDottedLine.m in Sources */,
 				132DFA501E32ED1E0048F1AD /* AppDelegate.m in Sources */,
 				132DFA4D1E32ED1E0048F1AD /* main.m in Sources */,
-				1335A95B1E332892003DC2EB /* UIButton+Layout.m in Sources */,
-				1335A9601E332892003DC2EB /* ZRSStarRatingView.m in Sources */,
-				1335A95F1E332892003DC2EB /* ZRSCustomView.m in Sources */,
+				1335A9751E332BE3003DC2EB /* ZRSStarRatingView.m in Sources */,
+				1335A9741E332BE3003DC2EB /* ZRSCustomView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
