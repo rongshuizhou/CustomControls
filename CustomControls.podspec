@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.license= { :type => "MIT", :file => "LICENSE" }
   s.author       = { "menday" => "1013620104@qq.com" }
   s.source       = { :git => "https://github.com/rongshuizhou/CustomControls.git", :tag => s.version }
-  s.source_files = "CustomControls/CustomControls/XIBShow/*.{h,m}"
+  s.source_files = "CustomControls/CustomControls/*.{h,m}"
   s.ios.deployment_target = '8.0'
   s.frameworks   = 'UIKit'
   s.requires_arc = true
