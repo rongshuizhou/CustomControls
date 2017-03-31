@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "CustomControls"
-  s.version      = "0.0.1"
+  s.version      = "1.0.0"
   s.summary      = "常用的自定义控件，可在storyboard和Xib中实时渲染"
   s.description  = "常用的自定义控件，可在storyboard和Xib中实时渲染，添加与cocoapod支持"
   s.homepage     = "https://github.com/rongshuizhou/CustomControls_master.git"
